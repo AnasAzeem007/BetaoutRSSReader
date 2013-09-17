@@ -5,10 +5,10 @@
         versionCode="10" 
         version   = "5.0.0">
 
-    <name>RSS Viewer</name>
+    <name>Betaout RSS Viewer</name>
 
     <description>
-        A simple RSS Viewer.
+        RSS viewer for Betaout.com/blog
     </description>
 
     <author href="http://www.betaout.com" email="anas@socialcrawler.in">
