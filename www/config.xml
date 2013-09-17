@@ -17,7 +17,7 @@
 
     <preference name="phonegap-version" value="2.9.0" />
 
-    <icon src="icons/icon400.jpg" />
+    <icon src="icons/betaout_logo.jpg" />
 
  <feature name="http://api.phonegap.com/1.0/network"/>
 </widget>
