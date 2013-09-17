@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.betaout.rssviewer"
+        versionCode="10" 
+        version   = "5.0.0">
+
+    <name>RSS Viewer</name>
+
+    <description>
+        A simple RSS Viewer.
+    </description>
+
+    <author href="http://www.betaout.com" email="anas@socialcrawler.in">
+       Betaout.com
+    </author>
+
+    <preference name="phonegap-version" value="2.9.0" />
+
+    <icon src="icons/icon400.jpg" />
+
+ <feature name="http://api.phonegap.com/1.0/network"/>
+</widget>
